@@ -1,0 +1,8 @@
+.gitattributes
+.gitignore
+.travis.yml
+
+index.test-d.ts
+test.js
+tsconfig.json
+yarn.lock

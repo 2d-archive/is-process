@@ -1,6 +1,6 @@
 {
   "name": "is-process",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Check whether a value is the process.",
   "main": "index.js",
   "repository": "https://github.com/melike2d/is-process",

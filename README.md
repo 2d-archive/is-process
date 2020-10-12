@@ -1,4 +1,4 @@
-# is-process
+# is-process [![Build Status](https://travis-ci.org/MeLike2D/is-process.svg?branch=master)](https://travis-ci.org/MeLike2D/is-process)
 
 > Check whether a value is the process.
 

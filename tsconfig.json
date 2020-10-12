@@ -1,0 +1,15 @@
+{
+  "include": [
+    "./index.d.ts",
+    "./index.test-d.ts"
+  ],
+  "compilerOptions": {
+    "lib": [
+      "es2015"
+    ],
+    "types": [
+      "node"
+    ],
+    "esModuleInterop": true
+  }
+}
